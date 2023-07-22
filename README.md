@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaLuIsI
-- 👀 I’m interested in Computer Science, AI, Data Science,Data Analyst and Embedded system
+- 👀 I’m interested in Computer Science, Data Annotation,AI, Data Science,Data Analyst and Embedded system
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me (through email or github)
